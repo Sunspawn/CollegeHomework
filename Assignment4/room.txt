@@ -1,0 +1,2 @@
+:Exhibits in room:
+;Painting;Mona Lisa;Leonardo Da Vinci;1;0.8;0.5;1653;Renaissance;

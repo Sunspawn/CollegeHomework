@@ -1,0 +1,6 @@
+;Painting;Mona Lisa;Leonardo Da Vinci;1;0.8;0.5;1653;Renaissance;
+;Statue;David;Michaelangelo;100;5;2;1632;Stone;3;
+;Statue;something;someone;1;2;3;2019;crap;1;
+;Standing;Nuclear;Wild;4;5;6;1984;
+;WallArt;Berlin Wall;commies;1000;10;1000;1945;concrete;20;
+;WallArt;Theodosian Walls;blurple;10000;20;50000;1000;Stone;100;
